@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-22T07:55:57.928Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="68eKhQFlhL0IZ268izls" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-22T08:01:42.377Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="0O6BLK6Wg5e3IC756WAm" version="14.2.6" type="github">
   <diagram id="PGhreBsPbKH4rR5BUcig" name="Page-1">
     <mxGraphModel dx="881" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -303,8 +303,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="67QHIFpulbzX8Kgvgitb-6" value="开始task的生命周期&lt;br&gt;init&lt;br&gt;prepare&lt;br&gt;startRead/startWrite&lt;br&gt;post&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="560" width="140" height="140" as="geometry" />
+        <mxCell id="67QHIFpulbzX8Kgvgitb-6" value="init&lt;br&gt;prepare&lt;br&gt;startRead/startWrite&lt;br&gt;post" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="610" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="67QHIFpulbzX8Kgvgitb-7" value="开始Job的生命周期" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="260" width="80" height="30" as="geometry" />
@@ -454,11 +454,36 @@
         <mxCell id="67QHIFpulbzX8Kgvgitb-46" value="从reader传输数据给writer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1325" y="735" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="67QHIFpulbzX8Kgvgitb-47" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+        <mxCell id="67QHIFpulbzX8Kgvgitb-47" value="" style="endArrow=none;dashed=1;html=1;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1050" y="840" as="sourcePoint" />
-            <mxPoint x="1050" y="420" as="targetPoint" />
+            <mxPoint x="1080" y="840" as="sourcePoint" />
+            <mxPoint x="1080" y="430" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="67QHIFpulbzX8Kgvgitb-49" value="自定义transformer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="520" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="67QHIFpulbzX8Kgvgitb-50" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="430" as="sourcePoint" />
+            <mxPoint x="1185" y="430" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="67QHIFpulbzX8Kgvgitb-51" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1088" y="430" as="sourcePoint" />
+            <mxPoint x="970" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1087.5" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="67QHIFpulbzX8Kgvgitb-52" value="往前是schedule调度逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="380" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="67QHIFpulbzX8Kgvgitb-53" value="往后开始Task的生命周期" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="380" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
