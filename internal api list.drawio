@@ -1,6 +1,6 @@
-<mxfile modified="2022-07-26T09:11:56.584Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Cna5pW7PCZioL0FpmQmu" version="20.2.0" type="github">
+<mxfile modified="2022-07-27T02:06:16.296Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="TvsVxshHm4Ib2rM7_2n7" version="20.2.0" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="2234" dy="2101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1738" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
         <mxCell id="ErlmBYfuTUMRFkPD_uU5-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="50" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-20" value="欢迎语配置" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-20" value="欢迎语配置" style="whiteSpace=wrap;html=1;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="790" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ErlmBYfuTUMRFkPD_uU5-21" value="回调处理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
