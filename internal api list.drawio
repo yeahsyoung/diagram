@@ -1,101 +1,143 @@
-<mxfile modified="2022-07-27T02:06:16.296Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="TvsVxshHm4Ib2rM7_2n7" version="20.2.0" type="github">
+<mxfile modified="2022-08-02T05:02:06.941Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="NPq2ArL7L5NUYc28Ky3E" version="20.2.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1738" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="1464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-3" value="DKS Backend Management Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="140" width="220" height="40" as="geometry" />
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-3" value="DKS CLM Frontend Service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="200" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-4" value="Mini app management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-4" value="Mini app management" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="354" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-5" value="Instore portal management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-5" value="Cashier management" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-6" value="VF SCRM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="610" width="220" height="40" as="geometry" />
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-6" value="Wechat Platform Service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="851.5" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="20" width="20" height="290" as="geometry" />
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="20" width="20" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="210" width="20" height="120" as="geometry" />
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="280" width="20" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-10" value="LuckyDraw Management" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-10" value="LuckyDraw Management" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="560" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-12" value="组织架构相关" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-12" value="组织架构相关" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-13" value="欢迎语相关" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-13" value="欢迎语相关" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-15" value="Notification相关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="767" width="120" height="60" as="geometry" />
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-15" value="Notification相关" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="1008.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-16" value="tokenservice相关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="590" width="120" height="60" as="geometry" />
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-16" value="tokenservice相关" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="831.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-17" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="485" width="20" height="290" as="geometry" />
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-17" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="726.5" width="20" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-18" value="一店一码相关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="435" width="120" height="60" as="geometry" />
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-18" value="一店一码相关" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="676.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="50" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-20" value="欢迎语配置" style="whiteSpace=wrap;html=1;fillStyle=auto;" vertex="1" parent="1">
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-20" value="欢迎语配置" style="whiteSpace=wrap;html=1;fillStyle=auto;" parent="1" vertex="1">
           <mxGeometry x="790" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-21" value="回调处理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-21" value="回调处理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="790" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-22" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="200" width="20" height="190" as="geometry" />
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-22" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="390" width="20" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-23" value="活动配置" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-23" value="活动配置" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="780" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-24" value="奖品配置" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-24" value="奖品配置" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="780" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-26" value="权重配置" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-26" value="权重配置" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="780" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-27" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="408.5" width="20" height="113" as="geometry" />
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-27" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="650" width="20" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-28" value="二维码相关" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="408.5" width="120" height="30" as="geometry" />
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-28" value="二维码相关" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="650" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-29" value="回调处理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="491.5" width="120" height="30" as="geometry" />
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-29" value="回调处理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="733" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-30" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="565" y="573.5" width="20" height="113" as="geometry" />
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-30" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="555" y="815" width="20" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-33" value="无感知调用接口" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="615" width="120" height="30" as="geometry" />
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-33" value="无感知调用接口" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="856.5" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-34" value="获取token api" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="570" width="120" height="30" as="geometry" />
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-34" value="获取token api" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="811.5" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-35" value="回调处理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="656.5" width="120" height="30" as="geometry" />
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-35" value="回调处理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="898" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-36" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="565" y="740" width="20" height="113" as="geometry" />
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-36" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="1016.5" width="20" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-37" value="notification 配置" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="750" width="120" height="30" as="geometry" />
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-37" value="notification 配置" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="991.5" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ErlmBYfuTUMRFkPD_uU5-38" value="回调处理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="810" width="120" height="30" as="geometry" />
+        <mxCell id="ErlmBYfuTUMRFkPD_uU5-38" value="回调处理" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="1121.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uW74stEtpUGBtcCKX5jM-1" value="新增关键字和对应回复" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1001.5" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uW74stEtpUGBtcCKX5jM-2" value="查询列表关键字和对应回复" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="971.5" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uW74stEtpUGBtcCKX5jM-3" value="修改关键字和对应回复" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1028" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uW74stEtpUGBtcCKX5jM-4" value="删除关键字和对应回复" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1056.5" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uW74stEtpUGBtcCKX5jM-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="963.5" width="20" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="uW74stEtpUGBtcCKX5jM-7" value="接收回调，匹配对应关键字&lt;br&gt;根据匹配到的关键字回复用户" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="1119" width="210" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="uW74stEtpUGBtcCKX5jM-8" value="根据特定参数和规则生成二维码" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="650" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uW74stEtpUGBtcCKX5jM-9" value="处理参数，匹配到对应店铺" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="733" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uW74stEtpUGBtcCKX5jM-10" value="接收到关注事件，给用户发送欢迎语" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uW74stEtpUGBtcCKX5jM-11" value="欢迎语设置(文字、图片、小程序)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uW74stEtpUGBtcCKX5jM-12" value="欢迎语查询" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uW74stEtpUGBtcCKX5jM-13" value="欢迎语修改和删除" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uW74stEtpUGBtcCKX5jM-14" value="回调处理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uW74stEtpUGBtcCKX5jM-15" value="调天正接口进行注册" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
