@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-08-17T04:49:25.410Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.3" etag="52Y0tkirLRfyPlxS5Ksx" type="github"><diagram id="22TRwJ12R1cGozbtNm6x">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-17T04:59:30.838Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="W30feLY3NgC7-NT7uSJP" version="20.2.3" type="github">
+  <diagram id="22TRwJ12R1cGozbtNm6x" name="第 1 页">
+    <mxGraphModel dx="968" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RsOIsMR5Ke4-c9OCOoE_-1" value="小程序用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsOIsMR5Ke4-c9OCOoE_-2" value="后台用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsOIsMR5Ke4-c9OCOoE_-3" value="公众号用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RsOIsMR5Ke4-c9OCOoE_-4" value="Core backend" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RsOIsMR5Ke4-c9OCOoE_-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="130" as="sourcePoint" />
+            <mxPoint x="500" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsOIsMR5Ke4-c9OCOoE_-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="330" as="sourcePoint" />
+            <mxPoint x="490" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsOIsMR5Ke4-c9OCOoE_-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="349" y="230" as="sourcePoint" />
+            <mxPoint x="480" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RsOIsMR5Ke4-c9OCOoE_-10" value="&lt;h1&gt;认证&lt;/h1&gt;&lt;div&gt;用户的认证，访问接口的到底是谁&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="440" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RsOIsMR5Ke4-c9OCOoE_-11" value="&lt;h1&gt;安全&lt;/h1&gt;&lt;div&gt;接口安全，访问接口的是不是自己人？&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="440" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RsOIsMR5Ke4-c9OCOoE_-12" value="HTTP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="110" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
