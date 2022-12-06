@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T05:45:12.690Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.1" etag="2L3upppSI-YMx6qhDH2m" type="github"><diagram id="nmKlhyjXEk2Ih6iH253c">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-06T05:57:51.048Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="V0HOYjJMOxaCTMvcXCrM" version="20.5.1" type="github">
+  <diagram id="nmKlhyjXEk2Ih6iH253c" name="第 1 页">
+    <mxGraphModel dx="968" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GQdBluO_648FcDcBQcId-1" value="hashicorp vault&lt;br&gt;配置管理中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQdBluO_648FcDcBQcId-2" value="hashicorp consul&lt;br&gt;服务注册中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQdBluO_648FcDcBQcId-3" value="nacos服务注册中心+配置中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQdBluO_648FcDcBQcId-6" value="aws cloud map服务注册中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQdBluO_648FcDcBQcId-7" value="未与springcloud集成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="85" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GQdBluO_648FcDcBQcId-8" value="&lt;div style=&quot;text-align: left;&quot;&gt;注册中心server端 跨区域高可用三节点&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;配置中心三节点版&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;注册中心client端 项目内部集成&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="257.5" width="230" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GQdBluO_648FcDcBQcId-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="40" width="20" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="GQdBluO_648FcDcBQcId-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="230" width="20" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="GQdBluO_648FcDcBQcId-12" value="AWS Parameter Store配置中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
