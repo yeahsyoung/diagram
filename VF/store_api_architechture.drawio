@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-28T09:40:52.497Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ZQFAD9GYRSrPV1SbodTD" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-28T09:42:02.316Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="7QLvy1qJFqHlt47_UH8F" version="20.7.4" type="github">
   <diagram id="nmKlhyjXEk2Ih6iH253c" name="第 1 页">
     <mxGraphModel dx="976" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="120" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GQdBluO_648FcDcBQcId-7" value="aws原生服务, 不需要部署&lt;br&gt;&lt;br&gt;未与springcloud集成" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="290" y="60" width="160" height="85" as="geometry" />
+          <mxGeometry x="280" y="62.5" width="160" height="85" as="geometry" />
         </mxCell>
         <mxCell id="GQdBluO_648FcDcBQcId-8" value="&lt;div style=&quot;&quot;&gt;需要部署server和client组成高可用服务&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;go语言实现&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;aws提供部署示例&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="230" width="230" height="130" as="geometry" />
