@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T07:03:39.112Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="htJ3ONEQs-9RtrvOMziW" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-28T09:39:24.725Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="mV0RRCXOlPrr3bcYiv4O" version="20.7.4" type="github">
   <diagram id="nmKlhyjXEk2Ih6iH253c" name="第 1 页">
-    <mxGraphModel dx="968" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="976" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="GQdBluO_648FcDcBQcId-7" value="aws原生服务, 不需要部署&lt;br&gt;&lt;br&gt;未与springcloud集成" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="290" y="60" width="160" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="GQdBluO_648FcDcBQcId-8" value="&lt;div style=&quot;text-align: left;&quot;&gt;注册中心server端 跨区域高可用三节点&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;配置中心三节点版&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;注册中心client端 项目内部集成&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;go语言&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="GQdBluO_648FcDcBQcId-8" value="&lt;div style=&quot;&quot;&gt;需要部署server和client组成高可用服务&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;go语言实现&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="230" width="230" height="132.5" as="geometry" />
         </mxCell>
         <mxCell id="GQdBluO_648FcDcBQcId-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;" parent="1" vertex="1">
@@ -31,8 +31,8 @@
         <mxCell id="GQdBluO_648FcDcBQcId-12" value="AWS Parameter Store配置中心" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kYNvWG7T2KGYoYmtbhhu-1" value="注册中心+配置中心&lt;br&gt;&lt;br&gt;java语言" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="435" width="180" height="70" as="geometry" />
+        <mxCell id="kYNvWG7T2KGYoYmtbhhu-1" value="注册中心+配置中心&lt;br&gt;&lt;br&gt;需要部署server端, 高可用至少三节点&lt;br&gt;&lt;br&gt;java语言" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="420" width="220" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
