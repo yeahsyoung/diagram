@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T11:18:35.322Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="pVfVzLJn9S7e-N38bS1P" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-12T11:29:45.194Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="jbZhy2sWh5UAhH54u8Nr" type="github">
   <diagram id="LzJClFTWM4UzWtRtTVA4" name="第 1 页">
-    <mxGraphModel dx="1027" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="781" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -409,14 +409,14 @@
             <mxPoint x="400" y="1570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3CPao6bwDuhFlSuyAFx2-122" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.193;entryY=0.818;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3CPao6bwDuhFlSuyAFx2-123" target="3CPao6bwDuhFlSuyAFx2-117">
+        <mxCell id="3CPao6bwDuhFlSuyAFx2-122" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.195;entryY=0.964;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3CPao6bwDuhFlSuyAFx2-123" target="3CPao6bwDuhFlSuyAFx2-117">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="1730" as="sourcePoint" />
             <mxPoint x="249.36" y="1739.6799999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3CPao6bwDuhFlSuyAFx2-123" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1570" width="10" height="210" as="geometry" />
+          <mxGeometry x="400" y="1570" width="10" height="250" as="geometry" />
         </mxCell>
         <mxCell id="3CPao6bwDuhFlSuyAFx2-124" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -514,6 +514,25 @@
         </mxCell>
         <mxCell id="3CPao6bwDuhFlSuyAFx2-143" value="retry" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="1724" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CPao6bwDuhFlSuyAFx2-144" value="解决了前端网络问题&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1970" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3CPao6bwDuhFlSuyAFx2-145" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="1780" as="sourcePoint" />
+            <mxPoint x="410" y="1800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="1780" />
+              <mxPoint x="430" y="1800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CPao6bwDuhFlSuyAFx2-146" value="记录返还积分失败&lt;br&gt;定时任务继续重试返还积分" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1780" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3CPao6bwDuhFlSuyAFx2-147" value="提示兑换失败, 用户积分稍后返还" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1790" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
