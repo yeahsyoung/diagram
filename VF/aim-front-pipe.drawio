@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T03:00:37.212Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="N_fTUY8LweXdapkEIgPs" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-11T03:01:03.892Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="xkxIz6qnOT1lVDXInLUc" version="21.2.9" type="github">
   <diagram name="第 1 页" id="mmZjBVgp-5ww0B1r9gcF">
     <mxGraphModel dx="974" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,10 +23,10 @@
         <mxCell id="ss2t_ngD0FUfHPDTS_Bn-1" value="Jenkins&lt;br&gt;server" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="80" y="160" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ss2t_ngD0FUfHPDTS_Bn-2" value="AIM Front 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ss2t_ngD0FUfHPDTS_Bn-2" value="AIM Front 1&lt;br&gt;Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ss2t_ngD0FUfHPDTS_Bn-3" value="AIM Front 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ss2t_ngD0FUfHPDTS_Bn-3" value="AIM Front 2&lt;br&gt;Server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ss2t_ngD0FUfHPDTS_Bn-6" value="1.Git SCM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
