@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T05:49:11.491Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="WDJX-GTGtNb5P6LZ2Dvc" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T07:13:08.190Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jAVqyDfeVUCC6xlJ7kTL" version="22.1.0" type="github">
   <diagram name="第 1 页" id="529VRcp6ZxM3eGiWw4M4">
-    <mxGraphModel dx="-1328" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1590" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,14 +48,32 @@
         <mxCell id="PfzJClhl6PwVmJwfCfgA-5" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;Step120CallTakeUpInventoryService&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;pre style=&quot;font-family:&#39;Menlo-Regular&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;Menlo-Regular&#39;,monospace;font-size:9.8pt;&quot;&gt;调用占用库存策略&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3760" y="431" width="270" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2yPNLdrWaPqpneKhmEIJ-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PfzJClhl6PwVmJwfCfgA-6" target="2yPNLdrWaPqpneKhmEIJ-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PfzJClhl6PwVmJwfCfgA-6" value="&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;Step100CallVipTimeOrderService&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;pre style=&quot;font-family: Menlo-Regular, monospace; font-size: 9.8pt;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;font color=&quot;#080808&quot;&gt;JITX&lt;span style=&quot;font-family: Menlo-Regular, monospace;&quot;&gt;时效订单释放库存服务&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3760" y="311" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2yPNLdrWaPqpneKhmEIJ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PfzJClhl6PwVmJwfCfgA-8" target="2yPNLdrWaPqpneKhmEIJ-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4370" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2yPNLdrWaPqpneKhmEIJ-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PfzJClhl6PwVmJwfCfgA-7" target="2yPNLdrWaPqpneKhmEIJ-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4370" y="350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PfzJClhl6PwVmJwfCfgA-7" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;Step090CallDistributeWarehouseService&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;pre style=&quot;font-family:&#39;Menlo-Regular&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;Menlo-Regular&#39;,monospace;font-size:9.8pt;&quot;&gt;调用分仓服务，订单分配到发货仓，更新占单状态为&lt;span style=&quot;color:#067d17;font-family:&#39;JetBrains Mono&#39;,monospace;&quot;&gt;2&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3760" y="191" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2yPNLdrWaPqpneKhmEIJ-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PfzJClhl6PwVmJwfCfgA-8" target="PfzJClhl6PwVmJwfCfgA-7">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3900" y="180" />
+              <mxPoint x="3900" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="PfzJClhl6PwVmJwfCfgA-8" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;Step081CallPromotionPreExecService&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;pre style=&quot;font-family:&#39;Menlo-Regular&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;div&gt;&lt;pre style=&quot;font-family:&#39;Menlo-Regular&#39;,monospace;font-size:9.8pt;&quot;&gt;调用促销预处理接口，更新占单状态为&lt;span style=&quot;color:#067d17;font-family:&#39;JetBrains Mono&#39;,monospace;&quot;&gt;3&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3760" y="71" width="280" height="60" as="geometry" />
@@ -287,6 +305,37 @@
         </mxCell>
         <mxCell id="2yPNLdrWaPqpneKhmEIJ-45" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;需要执行平摊金额但是执行失败&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2695" y="1088" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2yPNLdrWaPqpneKhmEIJ-51" value="&lt;ol&gt;&lt;li&gt;退回不走促销&lt;/li&gt;&lt;li&gt;没有可执行的促销活动&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3880" y="121" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2yPNLdrWaPqpneKhmEIJ-52" value="Finish" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="4330" y="364" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2yPNLdrWaPqpneKhmEIJ-54" value="&lt;ol&gt;&lt;li&gt;订单状态非待分配，且hold单预执行返回结果为“不hold单”&lt;/li&gt;&lt;li&gt;订单已进入促销Hold中,等待促销mq通知所有活动后，再继续执行分仓服务服务&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4060" y="21" width="480" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2yPNLdrWaPqpneKhmEIJ-56" value="分仓结果为空&amp;amp;默认仓库为空" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4090" y="180" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2yPNLdrWaPqpneKhmEIJ-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.603;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PfzJClhl6PwVmJwfCfgA-7" target="PfzJClhl6PwVmJwfCfgA-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3917" y="251" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2yPNLdrWaPqpneKhmEIJ-58" value="&lt;ol&gt;&lt;li&gt;需要分仓&amp;amp;分仓成功&lt;/li&gt;&lt;li&gt;不需要分仓, 直接通过拿到仓库(JD, VIP, 自提)&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3905" y="241" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2yPNLdrWaPqpneKhmEIJ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.481;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PfzJClhl6PwVmJwfCfgA-6" target="PfzJClhl6PwVmJwfCfgA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2yPNLdrWaPqpneKhmEIJ-60" value="&lt;ol&gt;&lt;li&gt;不是JD或者不是VIPJITX&lt;/li&gt;&lt;li&gt;调用VITX取消释放库存成功&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3880" y="369" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2yPNLdrWaPqpneKhmEIJ-62" value="释放失败&lt;br&gt;(修改占单状态为STATUS_1，&lt;br&gt;从分仓step进去进行后续补偿服务)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4100" y="320" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
