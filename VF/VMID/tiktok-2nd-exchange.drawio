@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="第 1 页" id="7fIG6zsX1DSlQY5V87uT">
-    <mxGraphModel>
+    <mxGraphModel dx="905" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CUhYPiqIAKIkit_rII75-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CUhYPiqIAKIkit_rII75-2" target="CUhYPiqIAKIkit_rII75-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CUhYPiqIAKIkit_rII75-2" value="收到第二次或者第三次退单请求&lt;div&gt;ip_b_tiktok_refund&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CUhYPiqIAKIkit_rII75-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CUhYPiqIAKIkit_rII75-3" target="CUhYPiqIAKIkit_rII75-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CUhYPiqIAKIkit_rII75-3" value="取最近的一次退单中间表数据（相当于拿到上一次的退单信息）&lt;div&gt;ip_b_tiktok_refund&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CUhYPiqIAKIkit_rII75-5" value="&lt;div&gt;通过本次的退单信息获取上一次的退单信息&lt;/div&gt;sub_order_id子订单编号&lt;div&gt;order_no原始订单号&lt;/div&gt;&lt;div&gt;refund_type是否时换货单&lt;/div&gt;&lt;div&gt;return_status 退货状态，等待卖家确认、等待买家退回、等待卖家确认收货&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="420" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CUhYPiqIAKIkit_rII75-8" value="&lt;div&gt;通过上一次的退单信息获取退换货单&lt;/div&gt;&lt;div&gt;return_no退单号&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="420" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CUhYPiqIAKIkit_rII75-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CUhYPiqIAKIkit_rII75-9" target="CUhYPiqIAKIkit_rII75-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CUhYPiqIAKIkit_rII75-9" value="&lt;span style=&quot;text-align: left;&quot;&gt;上一次退单转换成功之后的退换货单&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;oc_b_return_order&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CUhYPiqIAKIkit_rII75-11" value="上次生成的换新单&lt;div&gt;oc_b_order&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CUhYPiqIAKIkit_rII75-13" value="&lt;div&gt;oc_b_order&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;oc_b_return_order&lt;/div&gt;OOID&amp;nbsp; --- &amp;gt; distributorId&lt;div&gt;Order_type --&amp;gt; Exchange&lt;/div&gt;&lt;div&gt;Source_code --&amp;gt; Orig_Source_code&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="530" width="420" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
