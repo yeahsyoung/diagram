@@ -19,7 +19,7 @@
         <mxCell id="CUhYPiqIAKIkit_rII75-5" value="&lt;div&gt;通过本次的退单信息获取上一次的退单信息&lt;/div&gt;sub_order_id子订单编号&lt;div&gt;order_no原始订单号&lt;/div&gt;&lt;div&gt;refund_type是否时换货单&lt;/div&gt;&lt;div&gt;return_status 退货状态，等待卖家确认、等待买家退回、等待卖家确认收货&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="200" width="420" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="CUhYPiqIAKIkit_rII75-8" value="&lt;div&gt;通过上一次的退单信息获取退换货单&lt;/div&gt;&lt;div&gt;return_no退单号&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CUhYPiqIAKIkit_rII75-8" value="&lt;div&gt;通过上一次的退单信息获取退换货单&lt;/div&gt;&lt;div&gt;return_no退单号 --&amp;gt;&amp;nbsp;&lt;span style=&quot;color: rgb(163, 21, 21); background-color: rgb(255, 255, 254); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace, Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre;&quot;&gt;TB_DISPUTE_ID换货平台单号&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="360" width="420" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CUhYPiqIAKIkit_rII75-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CUhYPiqIAKIkit_rII75-9" target="CUhYPiqIAKIkit_rII75-11">
@@ -31,8 +31,8 @@
         <mxCell id="CUhYPiqIAKIkit_rII75-11" value="上次生成的换新单&lt;div&gt;oc_b_order&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CUhYPiqIAKIkit_rII75-13" value="&lt;div&gt;oc_b_order&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;oc_b_return_order&lt;/div&gt;OOID&amp;nbsp; --- &amp;gt; distributorId&lt;div&gt;Order_type --&amp;gt; Exchange&lt;/div&gt;&lt;div&gt;Source_code --&amp;gt; Orig_Source_code&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="530" width="420" height="70" as="geometry" />
+        <mxCell id="CUhYPiqIAKIkit_rII75-13" value="&lt;div&gt;oc_b_order&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;oc_b_return_order&lt;/div&gt;OOID&amp;nbsp; --- &amp;gt; distributorId分销商编号&lt;div&gt;Order_type --&amp;gt; Exchange 订单类型换货单&lt;/div&gt;&lt;div&gt;Source_code --&amp;gt; Orig_Source_code 原始平台单号&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="420" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
