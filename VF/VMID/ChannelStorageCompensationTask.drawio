@@ -13,7 +13,7 @@
         <mxCell id="t6eAjr5Hyk1gsOzArES5-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t6eAjr5Hyk1gsOzArES5-6" target="t6eAjr5Hyk1gsOzArES5-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t6eAjr5Hyk1gsOzArES5-6" value="查询需要补偿的数据&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;sync_status=fail&lt;/div&gt;&lt;div&gt;error_count&amp;lt;5&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="t6eAjr5Hyk1gsOzArES5-6" value="查询需要补偿的数据&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;sync_status=fail&lt;/div&gt;&lt;div&gt;error_count&amp;lt;5&lt;/div&gt;&lt;div&gt;create_time在三小时之内且根据参数指数避让&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="220" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="t6eAjr5Hyk1gsOzArES5-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t6eAjr5Hyk1gsOzArES5-8" target="t6eAjr5Hyk1gsOzArES5-10">
@@ -43,8 +43,8 @@
         <mxCell id="t6eAjr5Hyk1gsOzArES5-16" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="960" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="t6eAjr5Hyk1gsOzArES5-18" value="2^1 * 300 = 600s = 10min&lt;div&gt;&lt;br&gt;&lt;div&gt;2^2 * 300 = 10min*2&amp;nbsp;&lt;/div&gt;&lt;div&gt;2^3 * 300&lt;/div&gt;&lt;div&gt;2^4 * 300&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="200" width="260" height="100" as="geometry" />
+        <mxCell id="t6eAjr5Hyk1gsOzArES5-18" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;First Time: 2^1 * 300 = 10min&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;Second: 2^2 * 300 = 20&lt;span style=&quot;background-color: initial;&quot;&gt;min&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Third: 2^3 * 300 = 40min&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Forth: 2^4 * 300 = 80min&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="460" y="180" width="170" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
