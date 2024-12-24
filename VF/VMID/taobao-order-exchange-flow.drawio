@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="v75zjDtBunfCfKpNDoP5">
-    <mxGraphModel dx="1983" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4104" dy="3336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -307,8 +307,8 @@
             <mxPoint x="685" y="2096" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wpau9BcV5UiC5BEYiR0a-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;原单明细已退数量问题&lt;/h1&gt;&lt;div&gt;平台单号&lt;span style=&quot;background-color: initial;&quot;&gt;2163414111071663984&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;在生成退换货单的时候，已退数量+1&lt;/li&gt;&lt;li&gt;在退换货单5640844取消的时候，这时候换新单会被取消，原单明细已退数量-1&lt;/li&gt;&lt;li&gt;最终已退数量=0&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;div&gt;平台单号4160640348969110605&lt;/div&gt;&lt;ul&gt;&lt;li&gt;第一次换货单生成，已退数量+1&lt;/li&gt;&lt;li&gt;第一次换货单取消，已退数量-1&lt;/li&gt;&lt;li&gt;第二次换货单生成，已退数量+1&lt;/li&gt;&lt;li&gt;第二次换货单手动虚拟入库&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;最终已退数量=1&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="5" y="2740" width="335" height="260" as="geometry" />
+        <mxCell id="wpau9BcV5UiC5BEYiR0a-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;原单明细已退数量问题&lt;/h1&gt;&lt;div&gt;平台单号&lt;span style=&quot;background-color: initial;&quot;&gt;2163414111071663984&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;在生成退换货单的时候，已退数量+1&lt;/li&gt;&lt;li&gt;在退换货单5640844取消的时候，这时候换新单会被取消，原单明细已退数量-1&lt;/li&gt;&lt;li&gt;最终已退数量=0&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;div&gt;平台单号4160640348969110605&lt;/div&gt;&lt;ul&gt;&lt;li&gt;第一次换货单生成，已退数量+1&lt;/li&gt;&lt;li&gt;第一次换货单取消，已退数量-1&lt;/li&gt;&lt;li&gt;第二次换货单生成，已退数量+1&lt;/li&gt;&lt;li&gt;第二次换货单手动虚拟入库&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;最终已退数量=1&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="15" y="2700" width="335" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
