@@ -427,7 +427,7 @@
         <mxCell id="wpau9BcV5UiC5BEYiR0a-67" value="&lt;font color=&quot;#ff0000&quot;&gt;biz_order_id 换货前子订单编号&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wpau9BcV5UiC5BEYiR0a-65">
           <mxGeometry y="60" width="177" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wpau9BcV5UiC5BEYiR0a-68" value="bought sku" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wpau9BcV5UiC5BEYiR0a-65">
+        <mxCell id="wpau9BcV5UiC5BEYiR0a-68" value="bought sku 原sku" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="wpau9BcV5UiC5BEYiR0a-65">
           <mxGeometry y="90" width="177" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wpau9BcV5UiC5BEYiR0a-69" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;ip_b_modify_goods_confirm_item&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
