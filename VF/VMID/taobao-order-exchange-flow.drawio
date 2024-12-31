@@ -486,16 +486,16 @@
         <mxCell id="wpau9BcV5UiC5BEYiR0a-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wpau9BcV5UiC5BEYiR0a-90" target="wpau9BcV5UiC5BEYiR0a-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wpau9BcV5UiC5BEYiR0a-92" value="&lt;div&gt;原单&lt;/div&gt;sku1 1件&lt;div&gt;sku2 1件&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wpau9BcV5UiC5BEYiR0a-92" value="&lt;div&gt;原单&lt;/div&gt;sku1 1件&lt;div&gt;sku2 1件&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="846" y="3840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wpau9BcV5UiC5BEYiR0a-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wpau9BcV5UiC5BEYiR0a-93" target="wpau9BcV5UiC5BEYiR0a-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wpau9BcV5UiC5BEYiR0a-93" value="sku1 1件&amp;nbsp;&lt;div&gt;改成 sku2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wpau9BcV5UiC5BEYiR0a-93" value="sku1 1件&amp;nbsp;&lt;div&gt;改成 sku3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="3940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wpau9BcV5UiC5BEYiR0a-95" value="改品单1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wpau9BcV5UiC5BEYiR0a-95" value="改品订单1&lt;div&gt;sku3 1件&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1157" y="3940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wpau9BcV5UiC5BEYiR0a-97" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
