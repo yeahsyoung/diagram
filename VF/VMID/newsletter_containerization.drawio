@@ -41,7 +41,7 @@
           <mxGeometry x="400" y="199" width="69.71" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bix0pDSEcJ-RzjBKj8dV-26" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.acr_cloud_container_registry;" parent="1" vertex="1">
-          <mxGeometry x="215.7" y="188" width="77.55" height="90" as="geometry" />
+          <mxGeometry x="201.92" y="188" width="77.55" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Bix0pDSEcJ-RzjBKj8dV-27" value="&lt;b&gt;Cloud Container Registry&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="155.7" y="274" width="170" height="30" as="geometry" />
