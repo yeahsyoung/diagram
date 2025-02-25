@@ -16,9 +16,6 @@
         <mxCell id="MgJ_tvKgdrmntvB1Ih9e-1" value="&lt;div&gt;root&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="470" y="110" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MgJ_tvKgdrmntvB1Ih9e-4" value="&lt;div&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;char=null&lt;/div&gt;&lt;div&gt;success_state&lt;/div&gt;&lt;div&gt;failure_state&lt;/div&gt;&lt;div&gt;keyword&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="110" y="110" width="120" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="MgJ_tvKgdrmntvB1Ih9e-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MgJ_tvKgdrmntvB1Ih9e-5" target="MgJ_tvKgdrmntvB1Ih9e-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -93,6 +90,12 @@
         </mxCell>
         <mxCell id="MgJ_tvKgdrmntvB1Ih9e-36" value="兮" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="610" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hbZyOXK_DznOCDEig5ip-1" value="&lt;div&gt;c=破 损 脏。。。&lt;/div&gt;&lt;div&gt;current=root&lt;/div&gt;failure=root&lt;div&gt;output=root.outputs&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="140" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hbZyOXK_DznOCDEig5ip-3" value="&lt;div&gt;c=洞、旧&lt;/div&gt;&lt;div&gt;current=破&lt;/div&gt;failure=root&lt;div&gt;output=root.outputs&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="285" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
