@@ -64,6 +64,15 @@
         <mxCell id="odoE4pUcR6Cn451R-FIA-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="mule---SAP" vertex="1">
           <mxGeometry height="30" width="110" x="430" y="380" as="geometry" />
         </mxCell>
+        <mxCell id="odoE4pUcR6Cn451R-FIA-9" edge="1" parent="1" source="odoE4pUcR6Cn451R-FIA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="odoE4pUcR6Cn451R-FIA-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="odoE4pUcR6Cn451R-FIA-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="调拨单创建" vertex="1">
+          <mxGeometry height="30" width="90" x="40" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="odoE4pUcR6Cn451R-FIA-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="预占调拨更新" vertex="1">
+          <mxGeometry height="30" width="90" x="170" y="680" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
