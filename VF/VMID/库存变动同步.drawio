@@ -4,22 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cv9IG9R-AKVJW3gmQNM8-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="175" width="500" x="40" y="255" as="geometry" />
-        </mxCell>
-        <mxCell id="cv9IG9R-AKVJW3gmQNM8-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
-          <mxGeometry height="95" width="350" x="40" y="65" as="geometry" />
-        </mxCell>
-        <mxCell id="cv9IG9R-AKVJW3gmQNM8-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="库存变动接口" vertex="1">
+        <mxCell id="cv9IG9R-AKVJW3gmQNM8-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="库存变动接口" vertex="1">
           <mxGeometry height="30" width="80" x="280" y="97.5" as="geometry" />
         </mxCell>
-        <mxCell id="cv9IG9R-AKVJW3gmQNM8-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CAR库存更新" vertex="1">
+        <mxCell id="cv9IG9R-AKVJW3gmQNM8-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="CAR库存更新" vertex="1">
           <mxGeometry height="30" width="90" x="270" y="300" as="geometry" />
         </mxCell>
         <mxCell id="odoE4pUcR6Cn451R-FIA-5" edge="1" parent="1" source="cv9IG9R-AKVJW3gmQNM8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="odoE4pUcR6Cn451R-FIA-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cv9IG9R-AKVJW3gmQNM8-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CAR库存流水变动" vertex="1">
+        <mxCell id="cv9IG9R-AKVJW3gmQNM8-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="CAR库存流水变动" vertex="1">
           <mxGeometry height="30" width="110" x="260" y="380" as="geometry" />
         </mxCell>
         <mxCell id="cv9IG9R-AKVJW3gmQNM8-10" edge="1" parent="1" source="cv9IG9R-AKVJW3gmQNM8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cv9IG9R-AKVJW3gmQNM8-4">
@@ -67,11 +61,23 @@
         <mxCell id="odoE4pUcR6Cn451R-FIA-9" edge="1" parent="1" source="odoE4pUcR6Cn451R-FIA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="odoE4pUcR6Cn451R-FIA-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="odoE4pUcR6Cn451R-FIA-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="调拨单创建" vertex="1">
+        <mxCell id="odoE4pUcR6Cn451R-FIA-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="调拨单创建" vertex="1">
           <mxGeometry height="30" width="90" x="40" y="680" as="geometry" />
         </mxCell>
-        <mxCell id="odoE4pUcR6Cn451R-FIA-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="预占调拨更新" vertex="1">
+        <mxCell id="odoE4pUcR6Cn451R-FIA-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="预占调拨更新" vertex="1">
           <mxGeometry height="30" width="90" x="170" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="odoE4pUcR6Cn451R-FIA-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="中台发送ttpos调拨指令" vertex="1">
+          <mxGeometry height="30" width="140" x="140" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="odoE4pUcR6Cn451R-FIA-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="中台发送SAP调拨指令" vertex="1">
+          <mxGeometry height="30" width="140" x="140" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="odoE4pUcR6Cn451R-FIA-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="门店发货" vertex="1">
+          <mxGeometry height="30" width="60" x="30" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="odoE4pUcR6Cn451R-FIA-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="线上发货" vertex="1">
+          <mxGeometry height="30" width="60" x="30" y="840" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
