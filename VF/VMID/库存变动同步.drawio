@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram name="第 1 页" id="AuXSTl6OMnyC_SDEncjF">
-    <mxGraphModel dx="946" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,6 +55,9 @@
         <mxCell id="odoE4pUcR6Cn451R-FIA-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VMID&lt;div&gt;逻辑发货单&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="80" x="100" y="380" as="geometry" />
         </mxCell>
+        <mxCell id="cjGfChmJKsE0XX9tclAC-2" edge="1" parent="1" source="odoE4pUcR6Cn451R-FIA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="cjGfChmJKsE0XX9tclAC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="odoE4pUcR6Cn451R-FIA-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="mule---SAP" vertex="1">
           <mxGeometry height="30" width="110" x="430" y="380" as="geometry" />
         </mxCell>
@@ -78,6 +81,15 @@
         </mxCell>
         <mxCell id="odoE4pUcR6Cn451R-FIA-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="线上发货" vertex="1">
           <mxGeometry height="30" width="60" x="30" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="cjGfChmJKsE0XX9tclAC-6" edge="1" parent="1" source="cjGfChmJKsE0XX9tclAC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="cjGfChmJKsE0XX9tclAC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cjGfChmJKsE0XX9tclAC-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="CAR库存更新" vertex="1">
+          <mxGeometry height="30" width="110" x="260" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="cjGfChmJKsE0XX9tclAC-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VMID" vertex="1">
+          <mxGeometry height="30" width="80" x="100" y="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
