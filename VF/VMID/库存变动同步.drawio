@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
   <diagram name="第 1 页" id="AuXSTl6OMnyC_SDEncjF">
-    <mxGraphModel dx="1113" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1183" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,6 +90,36 @@
         </mxCell>
         <mxCell id="cjGfChmJKsE0XX9tclAC-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VMID" vertex="1">
           <mxGeometry height="30" width="80" x="100" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="WRQh7C_UUSDnk4Lp18r4-4" edge="1" parent="1" source="WRQh7C_UUSDnk4Lp18r4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WRQh7C_UUSDnk4Lp18r4-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WRQh7C_UUSDnk4Lp18r4-6" edge="1" parent="1" source="WRQh7C_UUSDnk4Lp18r4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WRQh7C_UUSDnk4Lp18r4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WRQh7C_UUSDnk4Lp18r4-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="o2o待确认订单" vertex="1">
+          <mxGeometry height="40" width="120" x="70" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="WRQh7C_UUSDnk4Lp18r4-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="全渠道订单" vertex="1">
+          <mxGeometry height="40" width="120" x="340" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="WRQh7C_UUSDnk4Lp18r4-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="订单管理" vertex="1">
+          <mxGeometry height="40" width="120" x="340" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="WRQh7C_UUSDnk4Lp18r4-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#333333;" value="转单" vertex="1">
+          <mxGeometry height="30" width="60" x="200" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="WRQh7C_UUSDnk4Lp18r4-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#333333;" value="分仓、占库存、分物流" vertex="1">
+          <mxGeometry height="30" width="140" x="480" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="WRQh7C_UUSDnk4Lp18r4-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="审核" vertex="1">
+          <mxGeometry height="30" width="60" x="660" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="WRQh7C_UUSDnk4Lp18r4-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="配货中、仓库发货" vertex="1">
+          <mxGeometry height="30" width="60" x="760" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="WRQh7C_UUSDnk4Lp18r4-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="平台发货" vertex="1">
+          <mxGeometry height="30" width="60" x="880" y="1030" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
