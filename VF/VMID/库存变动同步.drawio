@@ -124,31 +124,32 @@
         <mxCell id="WRQh7C_UUSDnk4Lp18r4-12" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;单库单表&lt;/p&gt;&lt;p&gt;分支&lt;/p&gt;&lt;p&gt;代码规范&lt;/p&gt;&lt;p&gt;日志规范&lt;/p&gt;&lt;p&gt;redis 序列化规范&lt;/p&gt;&lt;p&gt;redis 失效时间&lt;/p&gt;" vertex="1">
           <mxGeometry height="240" width="180" x="647" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="WRQh7C_UUSDnk4Lp18r4-21" edge="1" parent="1" source="WRQh7C_UUSDnk4Lp18r4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WRQh7C_UUSDnk4Lp18r4-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="380" y="1335" />
-              <mxPoint x="380" y="1380" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="WRQh7C_UUSDnk4Lp18r4-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="逻辑仓档案&lt;div&gt;CP_C_WAREHOUSE&lt;/div&gt;&lt;div&gt;(CP_C_WAREHOUSE.STORENATURE=&#39;WH&#39; OR CP_C_WAREHOUSE.STORENATURE=&#39;STO&#39;)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="300" x="65" y="1290" as="geometry" />
         </mxCell>
-        <mxCell id="WRQh7C_UUSDnk4Lp18r4-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="逻辑仓档案&lt;div&gt;CP_C_WAREHOUSE&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="150" x="120" y="1310" as="geometry" />
-        </mxCell>
-        <mxCell id="WRQh7C_UUSDnk4Lp18r4-23" edge="1" parent="1" source="WRQh7C_UUSDnk4Lp18r4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WRQh7C_UUSDnk4Lp18r4-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WRQh7C_UUSDnk4Lp18r4-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="门店档案&lt;div&gt;CP_C_RSTORE&lt;/div&gt;&lt;div&gt;CP_C_STORE&lt;/div&gt;&lt;div&gt;CP_C_RSTORE.STORENATURE=&#39;STO&#39;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="260" x="40" y="1390" as="geometry" />
+        <mxCell id="WRQh7C_UUSDnk4Lp18r4-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="门店档案&lt;div&gt;CP_C_RSTORE&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;CP_C_RSTORE.STORENATURE=&#39;STO&#39;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="260" x="90" y="1390" as="geometry" />
         </mxCell>
         <mxCell id="WRQh7C_UUSDnk4Lp18r4-20" edge="1" parent="1" source="WRQh7C_UUSDnk4Lp18r4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="WRQh7C_UUSDnk4Lp18r4-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WRQh7C_UUSDnk4Lp18r4-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="实体仓档案&lt;div&gt;CP_C_PHY_WAREHOUSE&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="160" x="750" y="1360" as="geometry" />
+          <mxGeometry height="40" width="160" x="730" y="1345" as="geometry" />
         </mxCell>
         <mxCell id="WRQh7C_UUSDnk4Lp18r4-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="cp_c_store&lt;div&gt;逻辑仓/门店 --&amp;gt; 实体仓 关系&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="180" x="460" y="1350" as="geometry" />
+          <mxGeometry height="60" width="180" x="450" y="1335" as="geometry" />
+        </mxCell>
+        <mxCell id="WRQh7C_UUSDnk4Lp18r4-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="sg_b_channel_store&lt;div&gt;平台店铺逻辑仓关系&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="190" x="330" y="1530" as="geometry" />
+        </mxCell>
+        <mxCell id="WRQh7C_UUSDnk4Lp18r4-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SG_B_CHANNEL_PRODUCT&lt;div&gt;平台店铺商品&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="190" x="320" y="1590" as="geometry" />
+        </mxCell>
+        <mxCell id="WRQh7C_UUSDnk4Lp18r4-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SG_B_CHANNEL_STORAGE&lt;div&gt;平台店铺库存&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="170" x="329" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="WRQh7C_UUSDnk4Lp18r4-28" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="130" width="20" x="410" y="1300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
