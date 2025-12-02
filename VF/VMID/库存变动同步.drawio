@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
   <diagram name="第 1 页" id="AuXSTl6OMnyC_SDEncjF">
-    <mxGraphModel dx="1183" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,6 +123,32 @@
         </mxCell>
         <mxCell id="WRQh7C_UUSDnk4Lp18r4-12" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;单库单表&lt;/p&gt;&lt;p&gt;分支&lt;/p&gt;&lt;p&gt;代码规范&lt;/p&gt;&lt;p&gt;日志规范&lt;/p&gt;&lt;p&gt;redis 序列化规范&lt;/p&gt;&lt;p&gt;redis 失效时间&lt;/p&gt;" vertex="1">
           <mxGeometry height="240" width="180" x="647" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WRQh7C_UUSDnk4Lp18r4-21" edge="1" parent="1" source="WRQh7C_UUSDnk4Lp18r4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WRQh7C_UUSDnk4Lp18r4-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="1335" />
+              <mxPoint x="380" y="1380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WRQh7C_UUSDnk4Lp18r4-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="逻辑仓档案&lt;div&gt;CP_C_WAREHOUSE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="120" y="1310" as="geometry" />
+        </mxCell>
+        <mxCell id="WRQh7C_UUSDnk4Lp18r4-23" edge="1" parent="1" source="WRQh7C_UUSDnk4Lp18r4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WRQh7C_UUSDnk4Lp18r4-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WRQh7C_UUSDnk4Lp18r4-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="门店档案&lt;div&gt;CP_C_RSTORE&lt;/div&gt;&lt;div&gt;CP_C_STORE&lt;/div&gt;&lt;div&gt;CP_C_RSTORE.STORENATURE=&#39;STO&#39;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="260" x="40" y="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="WRQh7C_UUSDnk4Lp18r4-20" edge="1" parent="1" source="WRQh7C_UUSDnk4Lp18r4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="WRQh7C_UUSDnk4Lp18r4-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WRQh7C_UUSDnk4Lp18r4-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="实体仓档案&lt;div&gt;CP_C_PHY_WAREHOUSE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="750" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="WRQh7C_UUSDnk4Lp18r4-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="cp_c_store&lt;div&gt;逻辑仓/门店 --&amp;gt; 实体仓 关系&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="460" y="1350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
