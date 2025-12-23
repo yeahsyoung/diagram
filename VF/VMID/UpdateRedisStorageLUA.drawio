@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="第 1 页" id="bQm73HV_7T4aFz69yvsk">
-    <mxGraphModel dx="1261" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,11 +37,11 @@
         <mxCell id="F_LrwfJhgmZYTvddwuYW-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="partition redis分区" vertex="1">
           <mxGeometry height="30" width="110" x="250" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="F_LrwfJhgmZYTvddwuYW-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;whereHouseIdStr实体仓id列表&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="F_LrwfJhgmZYTvddwuYW-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;whereHouseIdStrlid 店铺-&amp;gt;渠道id&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="280" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="F_LrwfJhgmZYTvddwuYW-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;storeIdStr逻辑仓id列表&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="270" y="400" as="geometry" />
+        <mxCell id="F_LrwfJhgmZYTvddwuYW-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;storeIdStr 渠道策略-&amp;gt;渠道id&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="275" y="400" as="geometry" />
         </mxCell>
         <mxCell id="F_LrwfJhgmZYTvddwuYW-15" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-180;" value="" vertex="1">
           <mxGeometry height="230" width="20" x="410" y="200" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry height="30" width="60" x="750" y="310" as="geometry" />
         </mxCell>
         <mxCell id="jahGZm88Xx1bNFdTRda6-21" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
-          <mxGeometry height="190" width="20" x="710" y="220" as="geometry" />
+          <mxGeometry height="200" width="20" x="710" y="210" as="geometry" />
         </mxCell>
         <mxCell id="jahGZm88Xx1bNFdTRda6-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;isNegativePreout&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="880" y="310" as="geometry" />
@@ -128,13 +128,13 @@
           <mxGeometry height="30" width="60" x="890" y="400" as="geometry" />
         </mxCell>
         <mxCell id="jahGZm88Xx1bNFdTRda6-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;preoutNumChange&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="760" y="190" as="geometry" />
+          <mxGeometry height="30" width="60" x="760" y="200" as="geometry" />
         </mxCell>
         <mxCell id="jahGZm88Xx1bNFdTRda6-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;preinNumChange&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="767" y="220" as="geometry" />
+          <mxGeometry height="30" width="60" x="760" y="230" as="geometry" />
         </mxCell>
         <mxCell id="jahGZm88Xx1bNFdTRda6-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;storageNumChange&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="770" y="250" as="geometry" />
+          <mxGeometry height="30" width="60" x="770" y="260" as="geometry" />
         </mxCell>
         <mxCell id="jahGZm88Xx1bNFdTRda6-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 9.8pt; background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); white-space: normal;&quot;&gt;skuId =&lt;/span&gt; k[4]&lt;/pre&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="160" x="870" y="70" as="geometry" />
