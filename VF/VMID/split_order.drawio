@@ -29,10 +29,16 @@
           <mxGeometry height="30" width="90" x="305" y="430" as="geometry" />
         </mxCell>
         <mxCell id="8cBKduacHM4084Bt6WmA-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;" value="实体仓库存" vertex="1">
-          <mxGeometry height="60" width="120" x="170" y="390" as="geometry" />
+          <mxGeometry height="60" width="120" x="160" y="420" as="geometry" />
         </mxCell>
         <mxCell id="8cBKduacHM4084Bt6WmA-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;" value="渠道库存" vertex="1">
-          <mxGeometry height="60" width="120" x="170" y="445" as="geometry" />
+          <mxGeometry height="60" width="120" x="420" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="8cBKduacHM4084Bt6WmA-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;color: rgb(8, 8, 8);&quot;&gt;&lt;pre style=&quot;font-family: Menlo-Regular, monospace; font-size: 9.8pt;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(140, 140, 140), rgb(117, 117, 117)); font-style: italic; font-size: 9.8pt; white-space: normal;&quot;&gt;平台店铺逻辑关系表&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: Menlo-Regular, monospace; font-size: 9.8pt;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(6, 125, 23);&quot;&gt;sg_b_channel_store&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="160" x="590" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="8cBKduacHM4084Bt6WmA-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="shopId平台店铺id" vertex="1">
+          <mxGeometry height="30" width="100" x="620" y="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
