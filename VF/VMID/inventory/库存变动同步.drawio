@@ -190,6 +190,9 @@
         <mxCell id="_VrHJxFeY-xtm1WqROhS-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="sg_b_channel_store&lt;div&gt;平台店铺逻辑仓关系&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="125" x="325" y="1969.5" as="geometry" />
         </mxCell>
+        <mxCell id="KWIrv3fSI5-aEq64Eocm-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="‘店铺同步策略’发生变化的时候去更新‘平台店铺逻辑仓关系’" vertex="1">
+          <mxGeometry height="80" width="175" x="140" y="2040" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
