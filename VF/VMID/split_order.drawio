@@ -7,6 +7,30 @@
         <mxCell id="_a2HD4w_RHJ5oZulyhrz-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Split Order" vertex="1">
           <mxGeometry height="30" width="60" x="50" y="70" as="geometry" />
         </mxCell>
+        <mxCell id="8cBKduacHM4084Bt6WmA-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="店铺同步策略" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="8cBKduacHM4084Bt6WmA-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="获取该店铺下所有逻辑仓配置" vertex="1">
+          <mxGeometry height="70" width="140" x="310" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="8cBKduacHM4084Bt6WmA-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#067d17;&quot;&gt;cp_c_store&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="8cBKduacHM4084Bt6WmA-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="根据逻辑仓获取实体仓列表" vertex="1">
+          <mxGeometry height="30" width="60" x="320" y="295" as="geometry" />
+        </mxCell>
+        <mxCell id="8cBKduacHM4084Bt6WmA-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="比较得出最小可用库存" vertex="1">
+          <mxGeometry height="30" width="90" x="175" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="8cBKduacHM4084Bt6WmA-10" edge="1" parent="1" source="8cBKduacHM4084Bt6WmA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="8cBKduacHM4084Bt6WmA-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8cBKduacHM4084Bt6WmA-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="实体仓库存" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="8cBKduacHM4084Bt6WmA-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="逻辑仓库存" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
