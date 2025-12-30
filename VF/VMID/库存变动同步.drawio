@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="第 1 页" id="AuXSTl6OMnyC_SDEncjF">
-    <mxGraphModel dx="946" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1051" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,8 +157,38 @@
         <mxCell id="WRQh7C_UUSDnk4Lp18r4-28" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" value="" vertex="1">
           <mxGeometry height="130" width="20" x="410" y="1300" as="geometry" />
         </mxCell>
-        <mxCell id="YcgBQgzgXBXW0clN2I9--1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="st_c_channel_strategy&lt;div&gt;渠道策略&lt;/div&gt;" vertex="1">
+        <mxCell id="YcgBQgzgXBXW0clN2I9--1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="st_c_channel_strategy&lt;div&gt;渠道策略&lt;/div&gt;&lt;div&gt;定义了渠道和逻辑仓的关系&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="130" x="690" y="1530" as="geometry" />
+        </mxCell>
+        <mxCell id="_VrHJxFeY-xtm1WqROhS-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ST_C_SYNC_STOCK_STRATEGY&lt;div&gt;店铺同步策略定义了店铺有哪些供货渠道&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="210" x="200" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="_VrHJxFeY-xtm1WqROhS-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="平台店铺" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="1864.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_VrHJxFeY-xtm1WqROhS-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="渠道" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="1864.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_VrHJxFeY-xtm1WqROhS-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="逻辑仓" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="1864.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_VrHJxFeY-xtm1WqROhS-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ST_C_SYNC_STOCK_STRATEGY&lt;div&gt;店铺同步策略&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="210" x="170" y="1783.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_VrHJxFeY-xtm1WqROhS-6" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" value="" vertex="1">
+          <mxGeometry height="335" width="20" x="270" y="1674.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_VrHJxFeY-xtm1WqROhS-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="st_c_channel_strategy&lt;div&gt;渠道策略&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="430" y="1773.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_VrHJxFeY-xtm1WqROhS-8" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="337" width="47.5" x="473.75" y="1663.75" as="geometry" />
+        </mxCell>
+        <mxCell id="_VrHJxFeY-xtm1WqROhS-9" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" value="" vertex="1">
+          <mxGeometry height="560" width="20" x="380" y="1674.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_VrHJxFeY-xtm1WqROhS-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="sg_b_channel_store&lt;div&gt;平台店铺逻辑仓关系&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="125" x="325" y="1969.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
