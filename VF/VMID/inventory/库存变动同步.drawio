@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="第 1 页" id="AuXSTl6OMnyC_SDEncjF">
-    <mxGraphModel dx="1051" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,7 +172,7 @@
         <mxCell id="_VrHJxFeY-xtm1WqROhS-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="逻辑仓" vertex="1">
           <mxGeometry height="60" width="120" x="550" y="1864.5" as="geometry" />
         </mxCell>
-        <mxCell id="_VrHJxFeY-xtm1WqROhS-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ST_C_SYNC_STOCK_STRATEGY&lt;div&gt;店铺同步策略&lt;/div&gt;" vertex="1">
+        <mxCell id="_VrHJxFeY-xtm1WqROhS-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ST_C_SYNC_STOCK_STRATEGY&lt;div&gt;店铺同步库存策略&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="210" x="170" y="1783.5" as="geometry" />
         </mxCell>
         <mxCell id="_VrHJxFeY-xtm1WqROhS-6" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" value="" vertex="1">
