@@ -117,6 +117,48 @@
             <mxPoint x="208" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="T-jUsFzyCJK3Q2Barm6t-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="拆单前先尝试占单" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="T-jUsFzyCJK3Q2Barm6t-33" edge="1" parent="1" source="T-jUsFzyCJK3Q2Barm6t-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="T-jUsFzyCJK3Q2Barm6t-32" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-jUsFzyCJK3Q2Barm6t-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="按照原实体仓先尝试占单" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="T-jUsFzyCJK3Q2Barm6t-36" edge="1" parent="1" source="T-jUsFzyCJK3Q2Barm6t-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="T-jUsFzyCJK3Q2Barm6t-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-jUsFzyCJK3Q2Barm6t-37" edge="1" parent="1" source="T-jUsFzyCJK3Q2Barm6t-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="T-jUsFzyCJK3Q2Barm6t-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-jUsFzyCJK3Q2Barm6t-38" edge="1" parent="1" source="T-jUsFzyCJK3Q2Barm6t-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="T-jUsFzyCJK3Q2Barm6t-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-jUsFzyCJK3Q2Barm6t-39" edge="1" parent="1" source="T-jUsFzyCJK3Q2Barm6t-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="T-jUsFzyCJK3Q2Barm6t-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-jUsFzyCJK3Q2Barm6t-41" edge="1" parent="1" source="T-jUsFzyCJK3Q2Barm6t-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="T-jUsFzyCJK3Q2Barm6t-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-jUsFzyCJK3Q2Barm6t-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="重新分仓库" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="T-jUsFzyCJK3Q2Barm6t-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="失败" vertex="1">
+          <mxGeometry height="30" width="60" x="340" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="T-jUsFzyCJK3Q2Barm6t-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="按照新仓库&lt;div&gt;重新占单&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="185" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="T-jUsFzyCJK3Q2Barm6t-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="失败&lt;div&gt;需要拆单了&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="395" y="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="T-jUsFzyCJK3Q2Barm6t-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="跟之前仓库不一样" vertex="1">
+          <mxGeometry height="30" width="60" x="185" y="1290" as="geometry" />
+        </mxCell>
+        <mxCell id="T-jUsFzyCJK3Q2Barm6t-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="一样&lt;div&gt;或者没有找到新仓库&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="450" y="1300" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
