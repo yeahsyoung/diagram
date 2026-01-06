@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="第 1 页" id="B1vitVUdf5m54Y259JJi">
-    <mxGraphModel dx="2365" dy="1540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="901" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Pga_GXCGVkHX--mffUwV-168" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="450" width="192" x="3520" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pga_GXCGVkHX--mffUwV-169" parent="Pga_GXCGVkHX--mffUwV-168" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="450" width="192" as="geometry" />
+        </mxCell>
+        <mxCell id="Pga_GXCGVkHX--mffUwV-170" parent="Pga_GXCGVkHX--mffUwV-168" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="OMS" vertex="1">
+          <mxGeometry height="20" width="192" as="geometry" />
+        </mxCell>
+        <mxCell id="Pga_GXCGVkHX--mffUwV-135" parent="Pga_GXCGVkHX--mffUwV-168" style="rounded=0;whiteSpace=wrap;html=1;" value="全渠道订单&lt;div&gt;（订单管理）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="36" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Pga_GXCGVkHX--mffUwV-155" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="450" width="216" x="3328" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pga_GXCGVkHX--mffUwV-153" parent="Pga_GXCGVkHX--mffUwV-155" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="450" width="192" as="geometry" />
+        </mxCell>
+        <mxCell id="Pga_GXCGVkHX--mffUwV-154" parent="Pga_GXCGVkHX--mffUwV-155" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="IC" vertex="1">
+          <mxGeometry height="20" width="192" as="geometry" />
+        </mxCell>
+        <mxCell id="Pga_GXCGVkHX--mffUwV-138" parent="Pga_GXCGVkHX--mffUwV-155" style="rounded=0;whiteSpace=wrap;html=1;" value="o2o待确认订单&lt;div&gt;（通用中间表）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="36" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pga_GXCGVkHX--mffUwV-142" parent="Pga_GXCGVkHX--mffUwV-155" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="下单" vertex="1">
+          <mxGeometry height="30" width="60" x="162" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Pga_GXCGVkHX--mffUwV-161" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="450" width="192" x="3710" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pga_GXCGVkHX--mffUwV-162" parent="Pga_GXCGVkHX--mffUwV-161" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="450" width="192" as="geometry" />
+        </mxCell>
+        <mxCell id="Pga_GXCGVkHX--mffUwV-163" parent="Pga_GXCGVkHX--mffUwV-161" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="SG" vertex="1">
+          <mxGeometry height="20" width="192" as="geometry" />
+        </mxCell>
+        <mxCell id="Pga_GXCGVkHX--mffUwV-164" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="450" width="192" x="3902" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Pga_GXCGVkHX--mffUwV-165" parent="Pga_GXCGVkHX--mffUwV-164" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="450" width="192" as="geometry" />
+        </mxCell>
+        <mxCell id="Pga_GXCGVkHX--mffUwV-166" parent="Pga_GXCGVkHX--mffUwV-164" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="20" width="192" as="geometry" />
+        </mxCell>
         <mxCell id="OfqfmMMJX76WwYoyFdd8-1" parent="1" style="swimlane;html=1;childLayout=stackLayout;startSize=30;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#CCCCCC;strokeColor=#F8CECC;" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Order Process&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="4600" width="3110" x="50" y="20" as="geometry" />
         </mxCell>
@@ -573,6 +618,38 @@
             <mxPoint x="1300" y="3015" as="sourcePoint" />
             <mxPoint x="1340" y="2789" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Pga_GXCGVkHX--mffUwV-134" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="全渠道发货单&lt;div&gt;（出库通知的）&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="3746" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="Pga_GXCGVkHX--mffUwV-145" edge="1" parent="1" source="Pga_GXCGVkHX--mffUwV-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Pga_GXCGVkHX--mffUwV-138">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3300" y="90" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pga_GXCGVkHX--mffUwV-143" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ttpos" vertex="1">
+          <mxGeometry height="60" width="120" x="3160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pga_GXCGVkHX--mffUwV-146" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="订单同步&lt;div&gt;mule&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="3280" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pga_GXCGVkHX--mffUwV-182" edge="1" parent="1" source="Pga_GXCGVkHX--mffUwV-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Pga_GXCGVkHX--mffUwV-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pga_GXCGVkHX--mffUwV-173" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="o2o已匹配地址订单" vertex="1">
+          <mxGeometry height="60" width="120" x="3364" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Pga_GXCGVkHX--mffUwV-151" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="匹配地址&lt;div&gt;&lt;div class=&quot;row&quot; style=&quot;display: flex; line-height: 18px; padding-left: 8px; gap: 12px; user-select: text; margin: 4px 0px; color: rgb(31, 31, 31); font-family: system-ui, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="3290" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Pga_GXCGVkHX--mffUwV-181" edge="1" parent="1" source="Pga_GXCGVkHX--mffUwV-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Pga_GXCGVkHX--mffUwV-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pga_GXCGVkHX--mffUwV-180" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="web" vertex="1">
+          <mxGeometry height="60" width="120" x="3160" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Pga_GXCGVkHX--mffUwV-188" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="匹配地址：https://vmid-pre.vfcorp.com.cn/p/cs/o2oAddressSaveToOrder&#xa;下单：com.jackrain.nea.ip.api.others.StandplatTransferOrderCmd:1.4.0:ip&#xa;&#xa;" vertex="1">
+          <mxGeometry height="140" width="410" x="3240" y="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
