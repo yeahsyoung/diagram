@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.10">
   <diagram name="第 1 页" id="B1vitVUdf5m54Y259JJi">
-    <mxGraphModel dx="-2257" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-2362" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
         <mxCell id="Pga_GXCGVkHX--mffUwV-235" edge="1" parent="1" source="Pga_GXCGVkHX--mffUwV-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Pga_GXCGVkHX--mffUwV-234" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Pga_GXCGVkHX--mffUwV-213" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="Pga_GXCGVkHX--mffUwV-213" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;更新全渠道发货单&lt;/div&gt;修改接单人信息" vertex="1">
           <mxGeometry height="60" width="120" x="4000" y="220" as="geometry" />
         </mxCell>
         <mxCell id="Pga_GXCGVkHX--mffUwV-215" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="接单" vertex="1">
