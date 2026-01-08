@@ -110,7 +110,7 @@
         <mxCell id="Pga_GXCGVkHX--mffUwV-238" edge="1" parent="1" source="Pga_GXCGVkHX--mffUwV-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Pga_GXCGVkHX--mffUwV-237" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Pga_GXCGVkHX--mffUwV-234" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="Pga_GXCGVkHX--mffUwV-234" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="备货人信息&lt;div&gt;物流信息&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="3800" y="220" as="geometry" />
         </mxCell>
         <mxCell id="Pga_GXCGVkHX--mffUwV-236" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="备货" vertex="1">
