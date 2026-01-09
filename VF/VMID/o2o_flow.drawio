@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.10">
   <diagram name="第 1 页" id="B1vitVUdf5m54Y259JJi">
-    <mxGraphModel dx="-2362" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-2407" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,6 +130,15 @@
         </mxCell>
         <mxCell id="LAO6RwdrOdihiJ992Fr0-2" parent="1" style="whiteSpace=wrap;html=1;" value="库存调整单" vertex="1">
           <mxGeometry height="60" width="120" x="3498" y="1005" as="geometry" />
+        </mxCell>
+        <mxCell id="LAO6RwdrOdihiJ992Fr0-7" edge="1" parent="1" source="LAO6RwdrOdihiJ992Fr0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="LAO6RwdrOdihiJ992Fr0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LAO6RwdrOdihiJ992Fr0-4" parent="1" style="whiteSpace=wrap;html=1;" value="库存调拨" vertex="1">
+          <mxGeometry height="60" width="120" x="3498" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="LAO6RwdrOdihiJ992Fr0-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ttpos/sap" vertex="1">
+          <mxGeometry height="30" width="60" x="3382" y="1105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
