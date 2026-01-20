@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.3">
   <diagram name="第 1 页" id="B1vitVUdf5m54Y259JJi">
-    <mxGraphModel dx="-2407" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-2195" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,46 +66,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pga_GXCGVkHX--mffUwV-217" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="门店B/逻辑仓" vertex="1">
-          <mxGeometry height="60" width="120" x="3562" y="830" as="geometry" />
+          <mxGeometry height="60" width="120" x="3628" y="1580" as="geometry" />
         </mxCell>
         <mxCell id="Pga_GXCGVkHX--mffUwV-227" edge="1" parent="1" source="Pga_GXCGVkHX--mffUwV-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Pga_GXCGVkHX--mffUwV-219">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pga_GXCGVkHX--mffUwV-218" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="全渠道共享仓" vertex="1">
-          <mxGeometry height="60" width="120" x="3562" y="690" as="geometry" />
+          <mxGeometry height="60" width="120" x="3628" y="1440" as="geometry" />
         </mxCell>
         <mxCell id="Pga_GXCGVkHX--mffUwV-231" edge="1" parent="1" source="Pga_GXCGVkHX--mffUwV-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Pga_GXCGVkHX--mffUwV-229">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pga_GXCGVkHX--mffUwV-219" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="TNF-自营店铺&lt;div&gt;平台：POS&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="3562" y="550" as="geometry" />
+          <mxGeometry height="60" width="120" x="3628" y="1300" as="geometry" />
         </mxCell>
         <mxCell id="Pga_GXCGVkHX--mffUwV-223" edge="1" parent="1" source="Pga_GXCGVkHX--mffUwV-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Pga_GXCGVkHX--mffUwV-217">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pga_GXCGVkHX--mffUwV-220" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="逻辑仓库存" vertex="1">
-          <mxGeometry height="30" width="80" x="3737" y="845" as="geometry" />
+          <mxGeometry height="30" width="80" x="3803" y="1595" as="geometry" />
         </mxCell>
         <mxCell id="Pga_GXCGVkHX--mffUwV-222" edge="1" parent="1" source="Pga_GXCGVkHX--mffUwV-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="Pga_GXCGVkHX--mffUwV-220">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pga_GXCGVkHX--mffUwV-221" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="库存调整单" vertex="1">
-          <mxGeometry height="30" width="100" x="3890" y="845" as="geometry" />
+          <mxGeometry height="30" width="100" x="3956" y="1595" as="geometry" />
         </mxCell>
         <mxCell id="Pga_GXCGVkHX--mffUwV-225" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="渠道策略" vertex="1">
-          <mxGeometry height="30" width="60" x="3642.67" y="780" as="geometry" />
+          <mxGeometry height="30" width="60" x="3708.67" y="1530" as="geometry" />
         </mxCell>
         <mxCell id="Pga_GXCGVkHX--mffUwV-228" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="店铺同步库存策略" vertex="1">
-          <mxGeometry height="30" width="60" x="3632" y="630" as="geometry" />
+          <mxGeometry height="30" width="60" x="3698" y="1380" as="geometry" />
         </mxCell>
         <mxCell id="Pga_GXCGVkHX--mffUwV-229" parent="1" style="whiteSpace=wrap;html=1;" value="门店A" vertex="1">
-          <mxGeometry height="60" width="120" x="3322" y="830" as="geometry" />
+          <mxGeometry height="60" width="120" x="3388" y="1580" as="geometry" />
         </mxCell>
         <mxCell id="Pga_GXCGVkHX--mffUwV-232" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="o2o供货店铺（特定）&lt;div&gt;platformId+brandId&lt;/div&gt;" vertex="1">
-          <mxGeometry height="35" width="130" x="3382" y="655" as="geometry" />
+          <mxGeometry height="35" width="130" x="3448" y="1405" as="geometry" />
         </mxCell>
         <mxCell id="Pga_GXCGVkHX--mffUwV-233" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;rounded=0;" value="线下店铺使用o2o全渠道库存" vertex="1">
-          <mxGeometry height="30" width="176" x="3322" y="480" as="geometry" />
+          <mxGeometry height="30" width="176" x="3388" y="1230" as="geometry" />
         </mxCell>
         <mxCell id="Pga_GXCGVkHX--mffUwV-238" edge="1" parent="1" source="Pga_GXCGVkHX--mffUwV-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Pga_GXCGVkHX--mffUwV-237" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -139,6 +139,76 @@
         </mxCell>
         <mxCell id="LAO6RwdrOdihiJ992Fr0-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ttpos/sap" vertex="1">
           <mxGeometry height="30" width="60" x="3382" y="1105" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kGNhN7_VKSSeEwJo3P-5" edge="1" parent="1" source="V5kGNhN7_VKSSeEwJo3P-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="V5kGNhN7_VKSSeEwJo3P-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kGNhN7_VKSSeEwJo3P-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="TTPOS/mule" vertex="1">
+          <mxGeometry height="60" width="120" x="3378.33" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kGNhN7_VKSSeEwJo3P-8" edge="1" parent="1" source="V5kGNhN7_VKSSeEwJo3P-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="V5kGNhN7_VKSSeEwJo3P-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kGNhN7_VKSSeEwJo3P-4" parent="1" style="rounded=0;whiteSpace=wrap;" value="IC&#xa;/muleInventoryChange" vertex="1">
+          <mxGeometry height="60" width="132" x="3372.33" y="662.5" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kGNhN7_VKSSeEwJo3P-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="增量库存变动" vertex="1">
+          <mxGeometry height="30" width="130" x="3425" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kGNhN7_VKSSeEwJo3P-30" edge="1" parent="1" source="V5kGNhN7_VKSSeEwJo3P-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="V5kGNhN7_VKSSeEwJo3P-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kGNhN7_VKSSeEwJo3P-7" parent="1" style="rounded=0;whiteSpace=wrap;" value="TTPOS库存变动接口ip_b_store_inventory_change_item" vertex="1">
+          <mxGeometry height="40" width="190" x="3343.33" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kGNhN7_VKSSeEwJo3P-9" parent="1" style="rounded=0;whiteSpace=wrap;" value="GenerateInventorySyncTask&#xa;转换生成盘点单定时任务" vertex="1">
+          <mxGeometry height="50" width="170" x="3580.6699999999996" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kGNhN7_VKSSeEwJo3P-18" edge="1" parent="1" source="V5kGNhN7_VKSSeEwJo3P-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="V5kGNhN7_VKSSeEwJo3P-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kGNhN7_VKSSeEwJo3P-11" parent="1" style="whiteSpace=wrap;" value="TtposInventorySyncTask&#xa;全量生成库存中间表数据" vertex="1">
+          <mxGeometry height="50" width="157" x="3833" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kGNhN7_VKSSeEwJo3P-24" edge="1" parent="1" source="V5kGNhN7_VKSSeEwJo3P-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="V5kGNhN7_VKSSeEwJo3P-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kGNhN7_VKSSeEwJo3P-15" parent="1" style="rounded=0;whiteSpace=wrap;" value="inventory_of_mule_data&#xa;待同步中间表数据" vertex="1">
+          <mxGeometry height="40" width="178.67" x="3822.1600000000003" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kGNhN7_VKSSeEwJo3P-25" edge="1" parent="1" source="V5kGNhN7_VKSSeEwJo3P-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="V5kGNhN7_VKSSeEwJo3P-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3666" y="730" />
+              <mxPoint x="3486" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5kGNhN7_VKSSeEwJo3P-19" parent="1" style="rounded=0;whiteSpace=wrap;" value="TtposInventoryItemSyncTask&#xa;将手动/自动都生成TTPOS库存变动数据" vertex="1">
+          <mxGeometry height="57" width="231.33" x="3550" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kGNhN7_VKSSeEwJo3P-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="数据来源" vertex="1">
+          <mxGeometry height="30" width="60" x="3555" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kGNhN7_VKSSeEwJo3P-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="数据来源" vertex="1">
+          <mxGeometry height="30" width="60" x="3773" y="662.5" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kGNhN7_VKSSeEwJo3P-28" edge="1" parent="1" source="V5kGNhN7_VKSSeEwJo3P-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="V5kGNhN7_VKSSeEwJo3P-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kGNhN7_VKSSeEwJo3P-26" parent="1" style="whiteSpace=wrap;html=1;" value="页面&lt;div&gt;门店库存&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="3997.5" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="V5kGNhN7_VKSSeEwJo3P-29" edge="1" parent="1" source="V5kGNhN7_VKSSeEwJo3P-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="V5kGNhN7_VKSSeEwJo3P-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4057" y="743" />
+              <mxPoint x="3956" y="743" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5kGNhN7_VKSSeEwJo3P-27" parent="1" style="whiteSpace=wrap;" value="IP&#xa;/saveStoreInventoryChange" vertex="1">
+          <mxGeometry height="62.5" width="155" x="3980" y="660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
