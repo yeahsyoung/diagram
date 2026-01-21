@@ -189,7 +189,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V5kGNhN7_VKSSeEwJo3P-19" parent="1" style="rounded=0;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TtposInventoryItemSyncTask&#xa;将手动/自动都生成TTPOS库存变动数据" vertex="1">
+        <mxCell id="V5kGNhN7_VKSSeEwJo3P-19" parent="1" style="rounded=0;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TtposInventoryItemSyncTask&#xa;生成TTPOS库存变动数据（手动/自动）" vertex="1">
           <mxGeometry height="57" width="231.33" x="3709.33" y="563" as="geometry" />
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="数据来源" vertex="1">
