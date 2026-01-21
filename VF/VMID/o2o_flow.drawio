@@ -184,13 +184,13 @@
         <mxCell id="uTt80wNoiw7AIS34iDui-2" edge="1" parent="1" source="V5kGNhN7_VKSSeEwJo3P-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="V5kGNhN7_VKSSeEwJo3P-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3804" y="750" />
+              <mxPoint x="3825" y="750" />
               <mxPoint x="3978" y="750" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-19" parent="1" style="rounded=0;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TtposInventoryItemSyncTask&#xa;将手动/自动都生成TTPOS库存变动数据" vertex="1">
-          <mxGeometry height="57" width="231.33" x="3688.67" y="563" as="geometry" />
+          <mxGeometry height="57" width="231.33" x="3709.33" y="563" as="geometry" />
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="数据来源" vertex="1">
           <mxGeometry height="30" width="60" x="3850" y="840" as="geometry" />
@@ -209,6 +209,12 @@
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-27" parent="1" style="whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" value="IP&#xa;/saveStoreInventoryChange" vertex="1">
           <mxGeometry height="62.5" width="155" x="3473" y="656.5" as="geometry" />
+        </mxCell>
+        <mxCell id="uTt80wNoiw7AIS34iDui-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="自动" vertex="1">
+          <mxGeometry height="30" width="60" x="3413" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="uTt80wNoiw7AIS34iDui-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="手动" vertex="1">
+          <mxGeometry height="30" width="60" x="3564" y="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
