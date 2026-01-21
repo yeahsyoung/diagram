@@ -159,10 +159,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-7" parent="1" style="rounded=0;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="TTPOS库存变动接口ip_b_store_inventory_change_item" vertex="1">
-          <mxGeometry height="40" width="190" x="3343.33" y="760" as="geometry" />
+          <mxGeometry height="40" width="190" x="3343.33" y="780" as="geometry" />
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-9" parent="1" style="rounded=0;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="GenerateInventorySyncTask&#xa;转换生成盘点单定时任务" vertex="1">
-          <mxGeometry height="50" width="170" x="3599.9999999999995" y="840" as="geometry" />
+          <mxGeometry height="50" width="170" x="3611.3299999999995" y="870" as="geometry" />
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-18" edge="1" parent="1" source="V5kGNhN7_VKSSeEwJo3P-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="V5kGNhN7_VKSSeEwJo3P-15">
           <mxGeometry relative="1" as="geometry" />
@@ -174,7 +174,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-15" parent="1" style="rounded=0;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="inventory_of_mule_data&#xa;待同步中间表数据" vertex="1">
-          <mxGeometry height="30" width="157.84" x="3822.16" y="770" as="geometry" />
+          <mxGeometry height="40" width="157.84" x="3822.16" y="780" as="geometry" />
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-25" edge="1" parent="1" source="V5kGNhN7_VKSSeEwJo3P-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="V5kGNhN7_VKSSeEwJo3P-7">
           <mxGeometry relative="1" as="geometry">
@@ -188,7 +188,7 @@
           <mxGeometry height="57" width="231.33" x="3550" y="560" as="geometry" />
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="数据来源" vertex="1">
-          <mxGeometry height="30" width="60" x="3555" y="810" as="geometry" />
+          <mxGeometry height="30" width="60" x="3578" y="820" as="geometry" />
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="数据来源" vertex="1">
           <mxGeometry height="30" width="60" x="3773" y="662.5" as="geometry" />
