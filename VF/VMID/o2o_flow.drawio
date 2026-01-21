@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.4">
   <diagram name="第 1 页" id="B1vitVUdf5m54Y259JJi">
     <mxGraphModel dx="-2362" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,66 +144,71 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TTPOS/mule" vertex="1">
-          <mxGeometry height="60" width="120" x="3378.33" y="560" as="geometry" />
+          <mxGeometry height="60" width="120" x="3965" y="560" as="geometry" />
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-8" edge="1" parent="1" source="V5kGNhN7_VKSSeEwJo3P-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="V5kGNhN7_VKSSeEwJo3P-7" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-4" parent="1" style="rounded=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" value="IC&#xa;/muleInventoryChange" vertex="1">
-          <mxGeometry height="60" width="132" x="3372.33" y="662.5" as="geometry" />
+          <mxGeometry height="60" width="132" x="3959" y="662.5" as="geometry" />
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="增量库存变动" vertex="1">
-          <mxGeometry height="30" width="130" x="3425" y="620" as="geometry" />
+          <mxGeometry height="30" width="89" x="3967" y="555" as="geometry" />
         </mxCell>
-        <mxCell id="V5kGNhN7_VKSSeEwJo3P-30" edge="1" parent="1" source="V5kGNhN7_VKSSeEwJo3P-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="V5kGNhN7_VKSSeEwJo3P-9">
+        <mxCell id="uTt80wNoiw7AIS34iDui-6" edge="1" parent="1" source="V5kGNhN7_VKSSeEwJo3P-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" target="V5kGNhN7_VKSSeEwJo3P-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-7" parent="1" style="rounded=0;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="TTPOS库存变动接口ip_b_store_inventory_change_item" vertex="1">
-          <mxGeometry height="40" width="190" x="3343.33" y="780" as="geometry" />
+          <mxGeometry height="40" width="190" x="3930" y="780" as="geometry" />
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-9" parent="1" style="rounded=0;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="GenerateInventorySyncTask&#xa;转换生成盘点单定时任务" vertex="1">
-          <mxGeometry height="50" width="170" x="3611.3299999999995" y="870" as="geometry" />
+          <mxGeometry height="50" width="170" x="3739.9999999999995" y="870" as="geometry" />
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-18" edge="1" parent="1" source="V5kGNhN7_VKSSeEwJo3P-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="V5kGNhN7_VKSSeEwJo3P-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-11" parent="1" style="whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TtposInventorySyncTask&#xa;全量生成库存中间表数据" vertex="1">
-          <mxGeometry height="50" width="157" x="3823" y="560" as="geometry" />
+          <mxGeometry height="50" width="157" x="3316" y="566.5" as="geometry" />
         </mxCell>
-        <mxCell id="V5kGNhN7_VKSSeEwJo3P-24" edge="1" parent="1" source="V5kGNhN7_VKSSeEwJo3P-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="V5kGNhN7_VKSSeEwJo3P-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="V5kGNhN7_VKSSeEwJo3P-15" parent="1" style="rounded=0;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="inventory_of_mule_data&#xa;待同步中间表数据" vertex="1">
-          <mxGeometry height="40" width="157.84" x="3822.16" y="780" as="geometry" />
-        </mxCell>
-        <mxCell id="V5kGNhN7_VKSSeEwJo3P-25" edge="1" parent="1" source="V5kGNhN7_VKSSeEwJo3P-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="V5kGNhN7_VKSSeEwJo3P-7">
+        <mxCell id="V5kGNhN7_VKSSeEwJo3P-24" edge="1" parent="1" source="V5kGNhN7_VKSSeEwJo3P-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="V5kGNhN7_VKSSeEwJo3P-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3666" y="730" />
-              <mxPoint x="3486" y="730" />
+              <mxPoint x="3650" y="807" />
+              <mxPoint x="3650" y="592" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V5kGNhN7_VKSSeEwJo3P-15" parent="1" style="rounded=0;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="inventory_of_mule_data&#xa;待同步中间表数据" vertex="1">
+          <mxGeometry height="40" width="157.84" x="3315.16" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="uTt80wNoiw7AIS34iDui-2" edge="1" parent="1" source="V5kGNhN7_VKSSeEwJo3P-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="V5kGNhN7_VKSSeEwJo3P-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3804" y="750" />
+              <mxPoint x="3978" y="750" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-19" parent="1" style="rounded=0;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TtposInventoryItemSyncTask&#xa;将手动/自动都生成TTPOS库存变动数据" vertex="1">
-          <mxGeometry height="57" width="231.33" x="3526.67" y="561.5" as="geometry" />
+          <mxGeometry height="57" width="231.33" x="3688.67" y="563" as="geometry" />
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="数据来源" vertex="1">
-          <mxGeometry height="30" width="60" x="3578" y="820" as="geometry" />
+          <mxGeometry height="30" width="60" x="3850" y="840" as="geometry" />
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="数据来源" vertex="1">
-          <mxGeometry height="30" width="60" x="3768.67" y="677.5" as="geometry" />
+          <mxGeometry height="30" width="60" x="3648.67" y="677.5" as="geometry" />
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-28" edge="1" parent="1" source="V5kGNhN7_VKSSeEwJo3P-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="V5kGNhN7_VKSSeEwJo3P-27" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-26" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="页面&lt;div&gt;门店库存&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="120" x="3997.5" y="560" as="geometry" />
+          <mxGeometry height="50" width="120" x="3490.5" y="566.5" as="geometry" />
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-31" edge="1" parent="1" source="V5kGNhN7_VKSSeEwJo3P-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="V5kGNhN7_VKSSeEwJo3P-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-27" parent="1" style="whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" value="IP&#xa;/saveStoreInventoryChange" vertex="1">
-          <mxGeometry height="62.5" width="155" x="3980" y="650" as="geometry" />
+          <mxGeometry height="62.5" width="155" x="3473" y="656.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
