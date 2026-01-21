@@ -152,7 +152,7 @@
         <mxCell id="V5kGNhN7_VKSSeEwJo3P-4" parent="1" style="rounded=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" value="IC&#xa;/muleInventoryChange" vertex="1">
           <mxGeometry height="60" width="132" x="3959" y="662.5" as="geometry" />
         </mxCell>
-        <mxCell id="V5kGNhN7_VKSSeEwJo3P-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="增量库存变动" vertex="1">
+        <mxCell id="V5kGNhN7_VKSSeEwJo3P-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="增量库存变动" vertex="1">
           <mxGeometry height="30" width="89" x="3967" y="555" as="geometry" />
         </mxCell>
         <mxCell id="uTt80wNoiw7AIS34iDui-6" edge="1" parent="1" source="V5kGNhN7_VKSSeEwJo3P-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" target="V5kGNhN7_VKSSeEwJo3P-9">
@@ -211,10 +211,10 @@
           <mxGeometry height="62.5" width="155" x="3473" y="656.5" as="geometry" />
         </mxCell>
         <mxCell id="uTt80wNoiw7AIS34iDui-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="自动" vertex="1">
-          <mxGeometry height="30" width="60" x="3413" y="610" as="geometry" />
+          <mxGeometry height="30" width="60" x="3413" y="600" as="geometry" />
         </mxCell>
         <mxCell id="uTt80wNoiw7AIS34iDui-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;" value="手动" vertex="1">
-          <mxGeometry height="30" width="60" x="3564" y="600" as="geometry" />
+          <mxGeometry height="30" width="60" x="3570" y="580" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
