@@ -97,7 +97,22 @@
           <mxGeometry height="30" width="60" x="370" y="890" as="geometry" />
         </mxCell>
         <mxCell id="0RugNTVUr3mSNmdpWtD6-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="占单失败&lt;div&gt;缺货拆单&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="270" y="920" as="geometry" />
+          <mxGeometry height="30" width="60" x="240" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="0RugNTVUr3mSNmdpWtD6-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="OmsOccupyResultService&lt;div&gt;#&lt;span style=&quot;color: rgb(0, 98, 122); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt; background-color: rgb(255, 255, 255);&quot;&gt;handleFollowUp&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 98, 122); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt; background-color: rgb(255, 255, 255);&quot;&gt;hold单策略、分物流&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="320" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="0RugNTVUr3mSNmdpWtD6-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;background-color:#ffffff;color:#080808&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#067d17;&quot;&gt;oc_b_audit_task&lt;br&gt;审核中间表&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="370" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="0RugNTVUr3mSNmdpWtD6-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;pre style=&quot;color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(135, 16, 148); font-style: italic;&quot;&gt;OmsOrderStatus.UNCONFIRMED待审核&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="384" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="0RugNTVUr3mSNmdpWtD6-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AutoSendMqAuditOrderTask&lt;div&gt;自动审核任务&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="190" x="310" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="0RugNTVUr3mSNmdpWtD6-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;AuditOrderMqDetailProcessor&lt;br&gt;&lt;div style=&quot;color: rgb(8, 8, 8);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;OrderAuditProcess&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="280" x="280" y="1230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
