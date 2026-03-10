@@ -55,8 +55,14 @@
         <mxCell id="0dBeWV-sgvn862YC24TG-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="存平台报文" vertex="1">
           <mxGeometry height="30" width="80" x="10" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="0dBeWV-sgvn862YC24TG-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="OmsOccupyServiceTask" vertex="1">
-          <mxGeometry height="30" width="60" x="340" y="420" as="geometry" />
+        <mxCell id="0dBeWV-sgvn862YC24TG-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="OmsOccupyServiceTask&lt;div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;pre style=&quot;font-family: Menlo-Regular, monospace; font-size: 9.8pt;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;缺货寻源任务&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="600" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="0RugNTVUr3mSNmdpWtD6-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=8;" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;pre style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;span style=&quot;color: rgb(6, 125, 23);&quot;&gt;oc_b_tobeconfirmed_task&lt;br&gt;占单任务表&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="360" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="0RugNTVUr3mSNmdpWtD6-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;TobeConfirmedSendMqTask&lt;br&gt;占单定时任务&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="370" y="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
